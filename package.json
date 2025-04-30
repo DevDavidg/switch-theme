@@ -2,6 +2,7 @@
   "name": "dimensional-dwarf",
   "type": "module",
   "version": "0.0.1",
+  "homepage": "https://DevDavidg.github.io/switch-theme/",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
